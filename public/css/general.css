@@ -1,0 +1,22 @@
+:root{
+    --color-amarillo :  #EAC926;
+    --color-azul : #03264C;
+    --color-Celeste: #1259c3;
+    --color-Grisoscuro: #666;
+    --color-Grisclaro: #ebebeb;
+    --color-Verde: #39b54a;
+}
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color:black
+}
+
+article i{
+    color: #1259c3;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
